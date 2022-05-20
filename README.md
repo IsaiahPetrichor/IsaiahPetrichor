@@ -15,7 +15,7 @@ including critiques on my code._
 Coffee'. It's a PERN stack web application with a fully functional store and
 profile system.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;**[View the project code on my GitHub](https://github.com/IsaiahPetrichor/ecommerce)**
+&nbsp;&nbsp;&nbsp;&nbsp;**[View the live deployment on Heroku](https://petrichor-coffee.herokuapp.com/)**
 <br />
 
 ---
