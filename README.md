@@ -1,4 +1,4 @@
-# Hi, I'm Isaiah, a Full-Stack Engineer
+# Hi! I'm Isaiah, a motivated Full Stack Developer!
 
 &nbsp;&nbsp;&nbsp;&nbsp;_Thanks for viewing my profile, I am always creating more
 and learning how to advance my skills. I'm always open to input of any kind,
