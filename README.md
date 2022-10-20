@@ -22,7 +22,7 @@ profile system. I also occasionally update it and add new features, go see whats
 
 ## What I'm Learning
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am expanding my base language skills by learning Python.
+&nbsp;&nbsp;&nbsp;&nbsp;I am expanding my database knowledge with MongoDB and NoSQL.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;**[View my cheatsheets on Programming Languages](https://github.com/IsaiahPetrichor/CheetSheets/tree/main/_Languages)**
 <br />
