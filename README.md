@@ -15,7 +15,8 @@ including critiques on my code or tips you want to share!_
 Coffee'. It's a PERN stack web application with a fully functional store and
 profile system. I also occasionally update it and add new features, go see whats new!
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;**[View the live deployment on Heroku](https://petrichor-coffee.herokuapp.com/)**
+&nbsp;&nbsp;&nbsp;&nbsp;**[View the live deployment on Render](https://petrichor-coffee.onrender.com)**
+Mind the spinup time, it's hosted on a free plan.
 <br />
 
 ---
