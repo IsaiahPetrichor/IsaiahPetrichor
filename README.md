@@ -11,12 +11,12 @@ including critiques on my code or tips you want to share!_
 
 ## What I'm Working On
 
-&nbsp;&nbsp;&nbsp;&nbsp;I have just finished my project 'Petrichor
-Coffee'. It's a PERN stack web application with a fully functional store and
-profile system. I also occasionally update it and add new features, go see whats new!
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;**[View the live deployment on Render](https://petrichor-coffee.onrender.com)**
-Mind the spinup time, it's hosted on a free plan.
+&nbsp;&nbsp;&nbsp;&nbsp;I'm volunteering my time at a small non-profit called Clearviction as a Front-End Engineer.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I am also working on redesigning my portfolio and updating my project, Petrichor Coffee!
+
+&nbsp;&nbsp;&nbsp;&nbsp;**[View a live deployment of Petrichor Coffee](https://petrichor-coffee.onrender.com)**
+*Mind the long load time, it's hosted on a free plan.*
 <br />
 
 ---
