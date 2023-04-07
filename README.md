@@ -1,4 +1,4 @@
-# Hi! I'm Isaiah, a motivated Full Stack Developer!
+# Hi! I'm Isaiah, a Software Development Engineer!
 
 &nbsp;&nbsp;&nbsp;&nbsp;_Thanks for viewing my profile, I am always creating more
 and learning how to advance my skills. I'm always open to input of any kind,
@@ -11,19 +11,16 @@ including critiques on my code or tips you want to share!_
 
 ## What I'm Working On
 
-&nbsp;&nbsp;&nbsp;&nbsp;I'm volunteering my time at a small non-profit called Clearviction as a Front-End Engineer.
+&nbsp;&nbsp;&nbsp;&nbsp;I work at Launch Consulting Group as a Software Development Engineer - Intern!
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am also working on redesigning my portfolio and updating my project, Petrichor Coffee!
-
-&nbsp;&nbsp;&nbsp;&nbsp;**[View a live deployment of Petrichor Coffee](https://petrichor-coffee.onrender.com)**
-*Mind the long load time, it's hosted on a free plan.*
+&nbsp;&nbsp;&nbsp;&nbsp;I'm also volunteering my time at a small non-profit called Clearviction as a Front-End Engineer.
 <br />
 
 ---
 
 ## What I'm Learning
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am expanding my database knowledge with MongoDB and NoSQL.
+&nbsp;&nbsp;&nbsp;&nbsp;I am expanding my skills in OOP and Design Patterns.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;**[View my cheatsheets on Programming Languages](https://github.com/IsaiahPetrichor/CheetSheets/tree/main/_Languages)**
 <br />
