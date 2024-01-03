@@ -11,16 +11,14 @@ including critiques on my code or tips you want to share!_
 
 ## What I'm Working On
 
-&nbsp;&nbsp;&nbsp;&nbsp;I work at Launch Consulting Group as a Software Development Engineer - Intern!
-
-&nbsp;&nbsp;&nbsp;&nbsp;I'm also volunteering my time at a small non-profit called Clearviction as a Front-End Engineer.
+&nbsp;&nbsp;&nbsp;&nbsp;I work at Launch Consulting Group as an Associate Software Development Engineer!
 <br />
 
 ---
 
 ## What I'm Learning
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am expanding my skills in OOP and Design Patterns.
+&nbsp;&nbsp;&nbsp;&nbsp;I am expanding my skills in Azure DevOps, Python, and React.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;**[View my cheatsheets on Programming Languages](https://github.com/IsaiahPetrichor/CheetSheets/tree/main/_Languages)**
 <br />
